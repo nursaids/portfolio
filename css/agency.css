@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #e2e0d9;
 }
 
 a:hover {
-  color: #fec503;
+  color: #e2e0d9;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #e2e0d9 !important;
 }
 
 h1,
@@ -120,7 +120,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #e2e0d9;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -133,7 +133,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #e2e0d9;
 }
 
 @media (min-width: 992px) {
